@@ -1,0 +1,1 @@
+名称：Ci on：[Push]作业：Build：Run-on：Ubuntu-最新步骤：-使用：Actions/checkout@v2-名称：运行一行脚本运行：echo Hello，world！-name：运行多行脚本运行：ecoadd添加其他创建、回显测试和部署项目的操作。
